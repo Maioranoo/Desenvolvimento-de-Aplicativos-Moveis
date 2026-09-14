@@ -2,9 +2,9 @@ import cppIcon from '../img/c++.png';
 import javaIcon from '../img/java (1).png';
 import htmlIcon from '../img/html.png';
 import cssIcon from '../img/css.png';
-import book1 from '../img/book1.jpg';
-import book2 from '../img/book2.jpg';
-import book3 from '../img/book3.jpg';
+import construindosites from '../img/construindosites.jpg';
+import JavaScript from '../img/JavaScript.jpg';
+import web from '../img/web.jpg';
 import './App.css';
 
 function App() {
@@ -61,9 +61,9 @@ function App() {
       <section className="body-content">
         <h2>Livros</h2>
         <div className="book-wrapper">
-          <img src={book1} width="300" height="400" alt="imagem algoritmos" />
-          <img src={book2} width="300" height="400" alt="imagem lingua" />
-          <img src={book3} width="300" height="400" alt="java" />
+          <img src={web} width="300" height="400" alt="imagem algoritmos" />
+          <img src={construindosites} width="300" height="400" alt="imagem lingua" />
+          <img src={JavaScript} width="300" height="400" alt="java" />
         </div>
       </section>
 
@@ -81,6 +81,8 @@ function App() {
             referrerPolicy="strict-origin-when-cross-origin"
             allowFullScreen
           ></iframe>
+        </div>
+        <div>
           <iframe
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3652.6486945444585!2d-46.58197282578027!3d-23.724236267594023!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce4158ef9c7c05%3A0x776b798985695f52!2sFEI%20-%20Campus%20S%C3%A3o%20Bernardo%20do%20Campo!5e0!3m2!1spt-PT!2sbr!4v1740978090740!5m2!1spt-PT!2sbr"
             width="400"
