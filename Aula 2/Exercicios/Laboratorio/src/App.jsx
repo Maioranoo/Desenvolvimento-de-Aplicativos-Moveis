@@ -100,10 +100,6 @@ function App() {
             </thead>
             <tbody>
               <tr>
-                <td>Prof.Dr.Fagner Pimentel</td>
-                <td>fpimentel@fei.edu.br</td>
-              </tr>
-              <tr>
                 <td>Prof.Dr.Isaac Jesus Da Silva</td>
                 <td>isaacjesus@fei.edu.br</td>
               </tr>
