@@ -34,28 +34,20 @@ function App() {
       <section className="body-content">
         <h2>Introdução</h2>
         <p>
-          C++ (em potuguês: lê-se "cê mais mais",em inglês lê-se see plus
-          plus) é uma linguagem de programação e compilada
-          multi-paradigma(seu suporte inclui linguagem imperativa, orientada
-          e objetos e genérica) e de uso geral. Desde os anos de 1990 é uma
-          das linguagens comerciais mais populares, sendo bastante usada
-          também na academia por seu grande desempenho e base de
-          utilizadores.
-        </p>
+          Com o React, você cria interfaces organizadas em componentes reutilizáveis, que
+          controlam tanto a exibição quanto o comportamento da aplicação. Ele permite
+          atualizar elementos de forma dinâmica, sem recarregar a página inteira, além de
+          facilitar a aplicação de estilos, animações e recursos interativos de maneira
+          escalável. (Fonte Usada: SansSerif, tamanho 20pt)
+                  </p>
         <p>
-          java é uma linguagem de programação orientada a objetos
-          desenvolvidos na década de 90 por uma equipe de programadores
-          chefiada por James Gosling, na empresa Sun Microsytems. Em 2008 o
-          Java foi adquirido pela empresa Oracle Corporation.
+          O React é uma das bibliotecas mais populares do ecossistema JavaScript e tornouse
+          referência no desenvolvimento de interfaces modernas. Sua principal força está na
+          criação de componentes reutilizáveis, que tornam o código mais organizado e
+          facilitam a construção de aplicações escaláveis e de fácil manutenção. (Fonte Usada:
+          SansSerif, tamanho 20pt)
         </p>
-        <p>
-          Java foi desenvolvido por um grupo de pesquisadores da SUN
-          Microsytems por volta de 1990, pouco antes da explosão da
-          Internet. Essa linguagem possui estrutura muito semelhante á da
-          linguagem C. da qual descende imediatamente.Java temem comum com a
-          linguagem C++ o fato de ser orientada a objetos e mantém com esta
-          uma alto grau de semelhança.
-        </p>
+    
       </section>
 
       <section className="body-content">
